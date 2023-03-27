@@ -1,0 +1,12 @@
+Customer Name: null Room Number: 0
+Customer Name: null Room Number: 1
+Customer Name: Gerald Room Number: 2
+Customer Name: null Room Number: 3
+Customer Name: null Room Number: 4
+Customer Name: null Room Number: 5
+Customer Name: null Room Number: 6
+Customer Name: null Room Number: 7
+Customer Name: null Room Number: 8
+Customer Name: Shannon Room Number: 9
+Customer Name: null Room Number: 10
+Customer Name: null Room Number: 11
